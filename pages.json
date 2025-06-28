@@ -89,7 +89,7 @@
   },
   {
     "url": "https://www.immobiliarefiorucci.com/ricerca-immobile/?location%5B%5D=arezzo&type%5B%5D=casa-indipendente&status=vendita",
-    "selector": "#properties-listing"
+    "selector": ".rh_page__listing_page"
   },
   {
     "url": "https://www.ac-home.it/it/villa-in-vendita.html?nPos=0",
