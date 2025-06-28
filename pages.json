@@ -1,0 +1,134 @@
+[
+  {
+    "url": "https://www.etruriare.it/le-nostre-proposte/ville-e-casali.php",
+    "selector": ".container"
+  },
+  {
+    "url": "https://immobiliarebiondi.it/immobili/?status=30&type=&price=100000-500000&orderby=date",
+    "selector": ".iwp-properties-items"
+  },
+  {
+    "url": "https://www.etruscoimmobiliare.it/etrusco-immobiliare/annunci/index",
+    "selector": ".row"
+  },
+  {
+    "url": "https://www.vasariimmobiliare.it/appartamento_vendita/",
+    "selector": ".facetwp-template"
+  },
+  {
+    "url": "https://www.iad-italia.it/consulente-immobiliare/elia.sasso",
+    "selector": ".py-md"
+  },
+  {
+    "url": "https://www.iad-italia.it/consulente-immobiliare/sofia.antonelli",
+    "selector": ".py-md"
+  },
+  {
+    "url": "https://casaservice.it/search-results-2/?status%5B%5D=in-vendita&location%5B%5D=arezzo&areas%5B%5D=&type%5B%5D=&property_id=",
+    "selector": ".listing-view"
+  },
+  {
+    "url": "https://www.itcasa.it/ricerca/?wpv_view_count=6145&wpv-tipologia-immobile=0&wpv-localita-immobile=arezzo&wpv-wpcf-numero-di-camere=&wpv-wpcf-mq-min=&wpv-wpcf-mq-max=&wpv-wpcf-price-min=&wpv-wpcf-price-max=&wpv-wpcf-riferimento=&wpv_post_search=&wpv_filter_submit=Cerca&searchDone=1",
+    "selector": ".py-md"
+  },
+  {
+    "url": "https://www.leonardiimmobiliare.it/ricerca/?wpv_view_count=6145&wpv-wpcf-tipo-contratto=V&wpv-tipologia-immobile=&wpv-localita-immobile=provincia-di-arezzo&prezzo_min=&prezzo_max=&mq_min=&mq_max=&wpv-wpcf-numero-di-camere=&wpv-wpcf-numero-di-bagni=&wpv-wpcf-riferimento=&wpv_filter_submit=Cerca&searchDone=1&wpv_sort_orderby=post_date&wpv_sort_orderby_as=string&wpv_orderby=post_date&wpv_sort_order=desc&wpv_order=desc",
+    "selector": ".elementor-widget-container"
+  },
+  {
+    "url": "https://www.professionecasa.it/agenzia/arezzo?uso=abitativo&contratto=vendita&numerolocali=&prezzominimo=&prezzomassimo=&tipologia=&mqmin=&mqmax=250&condizionistabile=&condizioniimmobile=&numerobagni=&numerobalconi=&classeenergetica=&ordinamento=",
+    "selector": ".container"
+  },
+  {
+    "url": "https://www.tuscanyhouse.it/it/vendita/8/case-singole",
+    "selector": ".container"
+  },
+  {
+    "url": "https://www.immobiliaresalvicchi.it/portfolio-category/vendita/?_sfm_zona=Arezzo&_sfm_sottozona=Arezzo&_sfm_prezzo_pubblico=600+1590000&_sfm_mq=31+13530&_sfm_vani=1+51",
+    "selector": ".column1"
+  },
+  {
+    "url": "https://www.sottoilcielodellatoscana.it/ricerca/?wpv_view_count=6145&wpv-wpcf-tipo-contratto=V&wpv-localita-immobile=arezzo&wpv-tipologia-immobile=0&wpv-wpcf-numero-di-camere=&wpv-wpcf-numero-di-bagni=&mq_min=&mq_max=&prezzo_min=&prezzo_max=&wpv-wpcf-riferimento=&wpv_filter_submit=Cerca&searchDone=1",
+    "selector": "#ricerca-immobili"
+  },
+  {
+    "url": "https://www.immobiltecnica.it/it/cerca?sch_comune%5B%5D=316&agency_code=&sch_contratto=vendita&ricerca_testuale=",
+    "selector": ".container"
+  },
+  {
+    "url": "https://www.immobiliaregiotto.it/web/immobili.asp",
+    "selector": ".lista_immobili"
+  },
+  {
+    "url": "https://www.immobiliarelatelier.it/elenco_immobili_f.asp?riferimento=&cod_istat=051002&idco=317&idco=48866&idco=45250&idco=48898&idco=45229&idco=45231&idco=45264&idco=45235&idco=45248&idcau=1&idtip=0&da_prezzo=&a_prezzo=&da_mq=&a_mq=250&da_vani=&a_vani=",
+    "selector": ".container"
+  },
+  {
+    "url": "https://www.aerreimmobili.com/immobili-indipendenti",
+    "selector": "#PAGES_CONTAINER"
+  },
+  {
+    "url": "https://www.areaimmobiliarearezzo.it/elenco_immobili_f.asp?rel=nofollow",
+    "selector": ".elenco_immobili"
+  },
+  {
+    "url": "https://www.1immobiliarearezzo.it/property/casolare-in-vendita-ad-arezzo/?es=1&s=&post_type=properties&address=&min_price=&max_price=&es_category%5B2%5D=97&min_area=&max_area=",
+    "selector": ".es-properties__list"
+  },
+  {
+    "url": "https://www.nuovatoscanaimmobiliarearezzo.it/elenco_immobili_f.asp?riferimento=&cod_istat=051002&idtip=0&nvani=0&nr_camereg=0&da_prezzo=&a_prezzo=400000&tipo_garage=0",
+    "selector": "#aa-properties"
+  },
+  {
+    "url": "https://www.arezzo-case.it/index.php?option=com_spproperty&view=properties&Itemid=179",
+    "selector": "#sp-property-properties"
+  },
+  {
+    "url": "https://www.progettoimmobiliarearezzo.it/catalogoImm.php",
+    "selector": ".container-content"
+  },
+  {
+    "url": "https://www.immobiliarefiorucci.com/ricerca-immobile/?location%5B%5D=arezzo&type%5B%5D=casa-indipendente&status=vendita",
+    "selector": "#properties-listing"
+  },
+  {
+    "url": "https://www.ac-home.it/it/villa-in-vendita.html?nPos=0",
+    "selector": ".container"
+  },
+  {
+    "url": "https://www.atirealestate.it/#immobili",
+    "selector": ".immobili-container"
+  },
+  {
+    "url": "https://mencucciimmobiliare.it/immobili/",
+    "selector": ".page-content"
+  },
+  {
+    "url": "https://italcasaimmobiliare.blogspot.com/",
+    "selector": ".page_body"
+  },
+  {
+    "url": "https://www.ambienteimmobiliare.com/ita/immobili-vendita",
+    "selector": "#immobili-elenco"
+  },
+  {
+    "url": "https://www.gruppoplanetimmobiliare.it/risultati-ricerca/?search_property=&property_type=&property_purpose=Vendita&property_status=&property_city=&property_id=&price_min=50.000%2C00&price_max=400.000%2C00",
+    "selector": ".lista-immobili"
+  },
+  {
+    "url": "https://www.colline-toscane.com/elenco_strutture.aspx?city=&minprice=&maxprice=402170&includeReserved=1&minsurface=&maxsurface=&scope=S&code=",
+    "selector": "#wrapper_dx"
+  },
+  {
+    "url": "https://teneriniimmobiliare.agenzie.casa.it/",
+    "selector": ".home"
+  },
+  {
+    "url": "https://www.zerbinimmobiliare.it/immobili/",
+    "selector": ".listing-wrap"
+  },
+  {
+    "url": "https://www.olivierovalentini.it/case-in-vendita-arezzo",
+    "selector": "#sp-property-properties"
+  }
+]
