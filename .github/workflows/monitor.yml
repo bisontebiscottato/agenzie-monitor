@@ -1,0 +1,30 @@
+name: Monitor pagine
+
+on:
+  schedule:
+    - cron:  '0 */3 * * *'   # ogni 3 ore UTC
+  workflow_dispatch:         # avvio manuale
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: pip install requests
+      - run: python check.py
+        env:
+          SMTP_HOST:  ${{ secrets.SMTP_HOST }}
+          SMTP_PORT:  ${{ secrets.SMTP_PORT }}
+          SMTP_USER:  ${{ secrets.SMTP_USER }}
+          SMTP_PASS:  ${{ secrets.SMTP_PASS }}
+          MAIL_FROM:  ${{ secrets.MAIL_FROM }}
+          MAIL_TO:    ${{ secrets.MAIL_TO }}
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: 'hashes.json'
+          author_name: bot
+          author_email: bot@example.com
+          message: 'update hashes [skip ci]'
